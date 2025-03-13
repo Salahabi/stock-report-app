@@ -1,0 +1,25 @@
+.App {
+  min-height: 100vh;
+  background-color: #f8f9fa;
+}
+
+.stock-report-app {
+  padding: 20px;
+  border-radius: 8px;
+  background-color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  min-height: 400px;
+}
+
+.report-content {
+  line-height: 1.6;
+}
+
+.report-content p {
+  margin-bottom: 1rem;
+}
+
+.spinner-border {
+  width: 3rem;
+  height: 3rem;
+}
